@@ -15,7 +15,7 @@ April 2023 – current: Master’s program
 
 April 2019 – March 2022: Bachelor of Engineering
 
-- Department of Applied Mechanics and Aerospace Engineering, School of Fundamental Science and Engineering, Waseda University, Supervisor: Professon Eiji Iwase.
+- Department of Applied Mechanics and Aerospace Engineering, School of Fundamental Science and Engineering, Waseda University, Supervisor: Professor Eiji Iwase.
 
 ## Research Interest
 
