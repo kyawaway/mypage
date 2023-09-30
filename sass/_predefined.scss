@@ -6,10 +6,20 @@ $light-grey: #494f5c;
 $dark-grey: #3b3e48;
 $highlight-grey: #7d828a;
 $midnightblue: #31333d;
+$kyasual-background-sub: #fffae6;
+$kyasual-background: #fffefa;
+$kyasual-text: #3c372d;
+$kyasual-block-title: #462d28;
+$kyasual-block-body: #ebdcb9;
+$kyasual-example-title: #5a7323;
+$kyasual-example-body: #e1f0c8;
+$kyasual-alerted-title: #732346;
+$kyasual-alerted-body: #e5c3be;
+
 
 // Fonts
 //
-$fonts: "Trebuchet MS", Verdana, "Verdana Ref", "Segoe UI", Candara,
+$fonts: "Noto Sans JP", "Trebuchet MS", Verdana, "Verdana Ref", "Segoe UI", Candara,
   "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
 $code-fonts: Consolas, "Andale Mono WT", "Andale Mono", Menlo, Monaco,
   "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono",
@@ -27,11 +37,10 @@ $code-fonts: Consolas, "Andale Mono WT", "Andale Mono", Menlo, Monaco,
   a {
     word-break: break-all;
     border: none;
-    box-shadow: inset 0 -4px 0 $theme;
     transition-property: background-color;
 
     &:hover {
-      background-color: $theme;
+      background-color: $kyasual-example-title;
     }
   }
 }
