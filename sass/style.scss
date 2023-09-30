@@ -8,7 +8,7 @@
 ::-webkit-scrollbar {
   width: 8px;
   height: 8px;
-  background: $midnightblue;
+  background: $kyasual-block-body;
 }
 
 ::-webkit-scrollbar-thumb {
@@ -20,7 +20,7 @@
 }
 
 html {
-  background: $light-grey;
+  background: $kyasual-background;
   line-height: 1.6;
   letter-spacing: 0.06em;
 }
@@ -30,7 +30,7 @@ button,
 input,
 select,
 textarea {
-  color: $text;
+  color: $kyasual-text;
   font-family: $fonts;
 }
 
@@ -87,15 +87,14 @@ blockquote {
 }
 
 a {
-  color: $text;
+  color: $kyasual-example-title;
   text-decoration: none;
   border: none;
-  transition-property: color;
   transition-duration: 0.4s;
   transition-timing-function: ease-out;
 
   &:hover {
-    color: #fff;
+    color: $kyasual-example-body;
   }
 
   &:focus {
@@ -103,14 +102,42 @@ a {
   }
 }
 
+h1 {
+  color: $kyasual-alerted-title;
+  font-family: $fonts;
+}
+
+
 hr {
-  opacity: 0.2;
+  opacity: 0.3;
+  color: $kyasual-block-title;
   border-width: 0 0 5px 0;
   border-style: dashed;
   background: transparent;
-  width: 50%;
-  margin: 1.8em auto;
+  width: 70%;
+  margin: 3em auto;
 }
+
+/*
+ul li::marker {
+  content: '\f35a';
+  font-family: 'Font Awesome 5 Free';
+}
+*/
+
+ul li::marker {
+  font-size: 1.2em;
+  color: $kyasual-text; /*アイコン色*/
+}
+
+ul li {
+    padding-left: 0.5em;
+}
+
+ol li::marker {
+  color: $kyasual-text; /*アイコン色*/
+}
+
 
 table {
   border-collapse: collapse;
@@ -129,6 +156,11 @@ table {
     font-weight: 700;
     vertical-align: bottom;
   }
+}
+
+#home-title {
+  color: $kyasual-text;
+  font-family: $fonts;
 }
 
 .section-inner {
@@ -199,7 +231,7 @@ table {
   width: 100%;
   box-sizing: border-box;
   box-shadow: -1px -2px 3px rgba(0, 0, 0, 0.45);
-  background-color: $dark-grey;
+  background-color: $kyasual-text;
 }
 
 .hdr-wrapper {
@@ -208,6 +240,11 @@ table {
   align-items: center;
   padding: 0.5em 0;
   font-size: 1.2rem;
+
+  a {
+    margin: 0 0.5em;
+    color: $kyasual-background;
+  }
 
   .site-branding {
     display: inline-block;
@@ -222,8 +259,11 @@ table {
 
     a {
       margin-left: 0.8em;
+      color: $kyasual-background;
     }
+
   }
+
 }
 
 .hdr-icons {
@@ -251,6 +291,7 @@ table {
   display: none;
   margin-left: 0.6em;
   cursor: pointer;
+  color: $kyasual-background;
 }
 
 #mobile-menu {
@@ -262,7 +303,8 @@ table {
   z-index: 1;
   box-sizing: border-box;
   box-shadow: -1px -2px 3px 0px rgba(0, 0, 0, 0.45);
-  background-color: $dark-grey;
+  color: $kyasual-background;
+  background-color: $kyasual-block-body;
 
   ul {
     list-style: none;
@@ -270,7 +312,13 @@ table {
     padding: 0;
     line-height: 2;
     font-size: 1.2em;
+    color: $kyasual-background;
   }
+  
+  a {
+    color: $kyasual-text;
+  }
+
 }
 
 #site-footer {
@@ -341,7 +389,7 @@ p.img-404 {
       }
 
       &:hover {
-        border-color: #fff;
+        border-color: $kyasual-alerted-body;
       }
 
       svg {
@@ -379,6 +427,7 @@ p.img-404 {
   opacity: 0.8;
 
   a {
+    color: $kyasual-text;
     margin: 0 0.2em;
   }
 }
@@ -390,6 +439,7 @@ p.img-404 {
     display: block;
     text-align: center;
     margin-top: 0.5em;
+    color: $kyasual-text; 
   }
 }
 
@@ -479,8 +529,7 @@ p.img-404 {
 
   a {
     box-shadow: none;
-    text-decoration: underline;
-    transition-property: color;
+    text-decoration: none;
 
     &:hover {
       background: transparent;
@@ -504,7 +553,7 @@ p.img-404 {
   text-decoration: none;
   padding: 2px;
   border-radius: 2px;
-  background-color: $midnightblue;
+  background-color: $kyasual-alerted-title;
 }
 
 #toc {
@@ -631,6 +680,9 @@ p.img-404 {
     margin-left: 490px;
     max-width: 300px;
   }
+  a {
+    color: $kyasual-background;
+  }
 }
 
 @media (max-width: 760px) {
@@ -641,6 +693,7 @@ p.img-404 {
 
   #menu-btn {
     display: inline-block;
+    color: $kyasual-background;
   }
 
 
