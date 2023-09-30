@@ -3,19 +3,19 @@ title="Kento Takyu"
 +++
 
 
-I am a student of Waseda University majoring in Computer Science and Engineering.
+I am a student of **Waseda University** majoring in Computer Science and Engineering.
 
-I am interested in logic and programming language.
+I am interested in **logic** and **programming language**.
 
 ## Education 
 
-April 2023 – current: Master’s program
+April 2023 – **current: Master’s program**
 
-- Department of Computer Science and Communications Engineering, Graduate School of Fundamental Science and Engineering, Waseda University, Supervisor: Professor Kazunori Ueda.
+- Department of Computer Science and Communications Engineering, Graduate School of Fundamental Science and Engineering, Waseda University, Supervisor: Professor [Kazunori Ueda](https://www.ueda.info.waseda.ac.jp/~ueda/index.html).
 
 April 2019 – March 2022: Bachelor of Engineering
 
-- Department of Applied Mechanics and Aerospace Engineering, School of Fundamental Science and Engineering, Waseda University, Supervisor: Professor Eiji Iwase.
+- Department of Applied Mechanics and Aerospace Engineering, School of Fundamental Science and Engineering, Waseda University, Supervisor: Professor [Eiji Iwase](https://www.iwaselab.amech.waseda.ac.jp/people/professor/).
 
 ## Research Interest
 
@@ -26,18 +26,20 @@ April 2019 – March 2022: Bachelor of Engineering
 - Graph transformation
 
 <!---
-## Publications
+## Presentations and Publications
 ### Material Science
-
-#### Unrefeeded. 
+#### Refereed Papers.
+#### Posters. 
 
 1. hoge
 
 ### Computer Science
-
-#### Unrefeeded.
+#### Refereed Papers.
+#### Unrefeeded Papers.
+#### Posters.
 
 1. hoge
+2. hoge
 
 --->
 
