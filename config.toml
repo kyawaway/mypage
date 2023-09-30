@@ -19,8 +19,6 @@ highlight_code = false
 highlight_theme = "agola-dark"
 
 # Whether to generate a RSS feed automatically
-generate_feed = true
-feed_filename = "rss.xml"
 
 # The number of articles to include in the RSS feed. Will include all items if
 # not set (the default).
