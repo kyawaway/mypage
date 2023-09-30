@@ -87,14 +87,14 @@ blockquote {
 }
 
 a {
-  color: $kyasual-example-title;
+  color: $kyasual-alerted-title;
   text-decoration: none;
   border: none;
   transition-duration: 0.4s;
   transition-timing-function: ease-out;
 
   &:hover {
-    color: $kyasual-example-body;
+    color: $kyasual-alerted-body;
   }
 
   &:focus {
@@ -103,10 +103,14 @@ a {
 }
 
 h1 {
-  color: $kyasual-alerted-title;
+  color: $kyasual-block-title;
   font-family: $fonts;
 }
 
+h2 {
+  color: $kyasual-block-title;
+  font-family: $fonts;
+}
 
 hr {
   opacity: 0.3;
@@ -451,6 +455,13 @@ p.img-404 {
 
   p {
     margin-top: 0;
+  }
+}
+
+#main-icon {
+  img {
+    border-radius: 50%;
+    border: solid 1px $kyasual-text;
   }
 }
 
