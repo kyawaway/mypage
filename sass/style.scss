@@ -428,9 +428,6 @@ p.img-404 {
 }
 
 .content {
-  text-align: justify;
-  text-justify: inter-ideograph; //For IE/Edge
-
   @include aTag;
 
   figure {
