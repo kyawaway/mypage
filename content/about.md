@@ -46,12 +46,12 @@ April 2019 – March 2022: Bachelor of Engineering
 ## Tools
 
 1. [kyasual -a smart kasual beamer theme-](https://kyawaway.github.io/myblog/post-kyasual/)
-- github: [https://github.com/kyawaway/kyasual](https://github.com/kyawaway/kyasual)
+- <i class="fa-brands fa-github"></i> [https://github.com/kyawaway/kyasual](https://github.com/kyawaway/kyasual)
 
 Cool beamer theme.
 
 2. [linear type playground](https://kyawaway.github.io/linear-type-playground/)
-- github: [https://github.com/kyawaway/linear-type-playground](https://github.com/kyawaway/linear-type-playground) 
+- <i class="fa-brands fa-github"></i> [https://github.com/kyawaway/linear-type-playground](https://github.com/kyawaway/linear-type-playground) 
 
 Type checking playground for linear lambda calculus. The front-end is written in Elm and the back-end (linear lambda calculus) is written in OCaml.
 
