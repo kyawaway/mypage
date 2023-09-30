@@ -306,12 +306,11 @@ table {
   bottom: 4.8em;
   right: 1.5em;
   display: none;
-  padding: 0.6em 1.8em;
+  padding: 0.6em 1.2em;
   z-index: 1;
   box-sizing: border-box;
   box-shadow: -1px -2px 3px 0px rgba(0, 0, 0, 0.45);
-  color: $kyasual-background;
-  background-color: $kyasual-block-body;
+  background-color: $kyasual-example-body;
 
   ul {
     list-style: none;
@@ -321,9 +320,29 @@ table {
     font-size: 1.2em;
     color: $kyasual-background;
   }
+
+  ul li {
+    margin: 0;
+    padding: 0;
+    border-bottom:2px solid $kyasual-example-title;
+  }
   
   a {
-    color: $kyasual-text;
+    color: $kyasual-example-title;
+    transition-duration: 0.4s;
+    transition-timing-function: ease-out;
+
+    opacity: 0.8;
+    text-decoration: none;
+    border: none;
+    
+    &:hover {
+      color: $kyasual-text;
+    }
+
+    &:focus {
+      outline: none;
+    }
   }
 
 }
