@@ -88,6 +88,7 @@ blockquote {
 
 a {
   color: $kyasual-alerted-title;
+  opacity: 0.7;
   text-decoration: none;
   border: none;
   transition-duration: 0.4s;
@@ -103,12 +104,14 @@ a {
 }
 
 h1 {
-  color: $kyasual-block-title;
+  opacity: 0.7;
+  color: $kyasual-alerted-title;
   font-family: $fonts;
 }
 
 h2 {
-  color: $kyasual-block-title;
+  opacity: 0.7;
+  color: $kyasual-alerted-title;
   font-family: $fonts;
 }
 
@@ -420,15 +423,14 @@ p.img-404 {
   margin-bottom: 1.5em;
   text-align: center;
   line-height: normal;
-  font-size: 0.7em;
-  font-style: italic;
-  opacity: 0.9;
+  font-size: 0.8em;
+  opacity: 0.5;
 }
 
 #home-social {
   font-size: 1.4em;
   text-align: center;
-  opacity: 0.8;
+  opacity: 0.6;
 
   a {
     color: $kyasual-text;
