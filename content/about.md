@@ -13,7 +13,7 @@ April 2023 – **current: Master’s program**
 
 - Department of Computer Science and Communications Engineering, Graduate School of Fundamental Science and Engineering, Waseda University, Supervisor: Professor [Kazunori Ueda](https://www.ueda.info.waseda.ac.jp/~ueda/index.html).
 
-April 2019 – March 2022: Bachelor of Engineering
+April 2019 – March 2023: Bachelor of Engineering
 
 - Department of Applied Mechanics and Aerospace Engineering, School of Fundamental Science and Engineering, Waseda University, Supervisor: Professor [Eiji Iwase](https://www.iwaselab.amech.waseda.ac.jp/people/professor/).
 
