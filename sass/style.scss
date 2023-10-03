@@ -8,11 +8,11 @@
 ::-webkit-scrollbar {
   width: 8px;
   height: 8px;
-  background: $kyasual-block-body;
+  background: $kyasual-example-body;
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #888;
+  background: $kyasual-example-title;
 
   &:hover {
     background: $text;
