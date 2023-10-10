@@ -251,6 +251,9 @@ table {
   a {
     margin: 0 0.5em;
     color: $kyasual-background;
+    &:hover {
+      color: $kyasual-alerted-body;
+    }
   }
 
   .site-branding {
@@ -267,7 +270,11 @@ table {
     a {
       margin-left: 0.8em;
       color: $kyasual-background;
+      &:hover {
+        color: $kyasual-alerted-body;
+      }
     }
+
 
   }
 
@@ -283,6 +290,9 @@ table {
 
   & > a {
     margin-left: 0.4em;
+    &:hover {
+      color: $kyasual-alerted-body;
+    }
   }
 }
 
@@ -454,6 +464,9 @@ p.img-404 {
   a {
     color: $kyasual-text;
     margin: 0 0.2em;
+    &:hover {
+      color: $kyasual-alerted-body;
+    }
   }
 }
 
@@ -465,6 +478,9 @@ p.img-404 {
     text-align: center;
     margin-top: 0.5em;
     color: $kyasual-text; 
+    &:hover {
+      color: $kyasual-alerted-body;
+    }
   }
 }
 
@@ -482,7 +498,7 @@ p.img-404 {
 #main-icon {
   img {
     border-radius: 50%;
-    border: solid 1px $kyasual-text;
+    border: solid 1px #8A8781;
   }
 }
 
