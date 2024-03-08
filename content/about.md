@@ -20,7 +20,7 @@ April 2019 – March 2023: Bachelor of Engineering
 ## Research Interest
 
 - Logic
-    - Especially linear logic
+    - Linear Logic and Proof Nets
 - Functional language
 - Software verification
 - Graph transformation
@@ -43,11 +43,11 @@ April 2019 – March 2023: Bachelor of Engineering
 
 2. **Kento Takyu** and Kazunori Ueda: 階層グラフ書き換え言語による線形論理のカット除去のエンコーディング, In Proc, The 40th JSSST Annual Conference (JSSST 2023), 2023. (in Japanese)
 
-3. **Kento Takyu** and Kazunori Ueda: Encoding MELL Cut Elimination into a Hierarchical Graph Rewriting Language, In Proc. The 21st Asian Symposium on Programming Languages and Systems (APLAS 2023), 2023, [Poster Session Audience Award](https://conf.researchr.org/track/aplas-2023/src-and-posters?).
+3. **Kento Takyu** and Kazunori Ueda: [Encoding MELL Cut Elimination into a Hierarchical Graph Rewriting Language, In Proc. The 21st Asian Symposium on Programming Languages and Systems](https://conf.researchr.org/details/aplas-2023/src-and-posters/4/-Non-SRC-Encoding-MELL-Cut-Elimination-into-a-Hierarchical-Graph-Rewriting-Language) (APLAS 2023), 2023, [Poster Session Audience Award](https://conf.researchr.org/track/aplas-2023/src-and-posters?#audience-awards).
 
 ## Awards
 
-1. The 21st Asian Symposium on Programming Languages and Systems (APLAS 2023) [Poster Session Audience Award](https://conf.researchr.org/track/aplas-2023/src-and-posters?).
+1. The 21st Asian Symposium on Programming Languages and Systems (APLAS 2023) [Poster Session Audience Award](https://conf.researchr.org/track/aplas-2023/src-and-posters?#audience-awards).
 
 ## Tools
 
