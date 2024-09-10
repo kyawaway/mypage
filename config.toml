@@ -12,11 +12,11 @@ default_language = "en"
 
 # Highlight all code blocks found
 # Or enable the highlight.js in the 'extra' config section
-highlight_code = false
+# highlight_code = false
 
 # Which theme to use for the code highlighting.
 # See below for list of accepted values
-highlight_theme = "agola-dark"
+# highlight_theme = "agola-dark"
 
 # Whether to generate a RSS feed automatically
 
@@ -51,7 +51,7 @@ build_search_index = false
 ignored_content = []
 
 # A list of directories to search for additional `.sublime-syntax` files in.
-extra_syntaxes = []
+# extra_syntaxes = []
 
 # Optional translation object. The key if present should be a language code
 [translations]
