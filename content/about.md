@@ -38,7 +38,7 @@ April 2019 – March 2023: Bachelor of Engineering
 --->
 #### Unrefeeded Papers.
 
-1. ([paper](https://jssst.or.jp/files/user/taikai/2024/papers/4b-3-R.pdf), [slide](https://www.ueda.info.waseda.ac.jp/~takyu/materials/jssst2024.pdf)) **Kento Takyu** and Kazunori Ueda: MELLのカット除去規則に基づく階層グラフ書換え言語の拡張, The 41th JSSST Annual Conference (JSSST 2023), 2024. (in Japanese)
+1. ([paper](https://jssst.or.jp/files/user/taikai/2024/papers/4b-3-R.pdf), [slide](https://www.ueda.info.waseda.ac.jp/~takyu/about/jssst2024.pdf)) **Kento Takyu** and Kazunori Ueda: MELLのカット除去規則に基づく階層グラフ書換え言語の拡張, The 41th JSSST Annual Conference (JSSST 2023), 2024. (in Japanese)
 
 #### Posters.
 
