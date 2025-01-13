@@ -53,7 +53,9 @@ April 2019 – March 2023: Bachelor of Engineering
 
 ## Awards
 
-1. The 21st Asian Symposium on Programming Languages and Systems (APLAS 2023) [Poster Session Audience Award (Non-SRC)](https://conf.researchr.org/track/aplas-2023/src-and-posters?#audience-awards).
+1. The 27th International Symposium on Practical Aspects of Declarative Languages (PADL 2025) [Best Student Paper Honorable Mention](https://popl25.sigplan.org/home/PADL-2025#Awards).
+
+2. The 21st Asian Symposium on Programming Languages and Systems (APLAS 2023) [Poster Session Audience Award (Non-SRC)](https://conf.researchr.org/track/aplas-2023/src-and-posters?#audience-awards).
 
 ## Tools
 
