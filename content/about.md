@@ -20,8 +20,8 @@ April 2019 – March 2023: Bachelor of Engineering
 ## Research Interest
 
 - Logic
-    - Linear Logic and Proof Nets
-- Functional language
+    - Linear logic and proof nets
+- Functional programming
 - Software verification
 - Graph transformation
 
@@ -37,11 +37,11 @@ April 2019 – March 2023: Bachelor of Engineering
 --->
 #### Refereed Papers.
 
-1. **Kento Takyu** and Kazunori Ueda, [Enhancing a Hierarchical Graph Rewriting Language based on MELL Cut Elimination](https://popl25.sigplan.org/details/PADL-2025-papers/3/Enhancing-a-Hierarchical-Graph-Rewriting-Language-based-on-MELL-Cut-Elimination), The 27th International Symposium on Practical Aspects of Declarative Languages (PADL 2025), Denver, Colorado, United States, January 2025.
+1. **Kento Takyu** and Kazunori Ueda, [Enhancing a Hierarchical Graph Rewriting Language based on MELL Cut Elimination](https://popl25.sigplan.org/details/PADL-2025-papers/3/Enhancing-a-Hierarchical-Graph-Rewriting-Language-based-on-MELL-Cut-Elimination), The 27th International Symposium on Practical Aspects of Declarative Languages (PADL 2025), Denver, Colorado, United States, January 2025. [[paper (extended version)](https://arxiv.org/pdf/2411.14802), [slide](https://www.ueda.info.waseda.ac.jp/~takyu/about/padl2025-slide.pdf)]
 
-#### Unrefeeded Papers.
+#### Unrefereed Papers.
 
-1. ([paper](https://jssst.or.jp/files/user/taikai/2024/papers/4b-3-R.pdf), [slide](https://www.ueda.info.waseda.ac.jp/~takyu/about/jssst2024.pdf)) **Kento Takyu** and Kazunori Ueda: MELLのカット除去規則に基づく階層グラフ書換え言語の拡張, The 41th JSSST Annual Conference (JSSST 2024), 2024. (in Japanese)
+1. **Kento Takyu** and Kazunori Ueda: MELLのカット除去規則に基づく階層グラフ書換え言語の拡張, The 41th JSSST Annual Conference (JSSST 2024), 2024. (in Japanese)
 
 #### Posters.
 
@@ -49,7 +49,7 @@ April 2019 – March 2023: Bachelor of Engineering
 
 2. **Kento Takyu** and Kazunori Ueda: 階層グラフ書き換え言語による線形論理のカット除去のエンコーディング, The 40th JSSST Annual Conference (JSSST 2023), 2023. (in Japanese)
 
-3. ([abstract](https://www.ueda.info.waseda.ac.jp/~takyu/about/aplas2023-abst.pdf), [poster](https://www.ueda.info.waseda.ac.jp/~takyu/about/aplas2023-poster.pdf)) **Kento Takyu** and Kazunori Ueda: [Encoding MELL Cut Elimination into a Hierarchical Graph Rewriting Language, In Proc. The 21st Asian Symposium on Programming Languages and Systems](https://conf.researchr.org/details/aplas-2023/src-and-posters/4/-Non-SRC-Encoding-MELL-Cut-Elimination-into-a-Hierarchical-Graph-Rewriting-Language) (APLAS 2023), November 2023, [Non-SRC Poster Award](https://conf.researchr.org/track/aplas-2023/src-and-posters?#audience-awards).
+3. **Kento Takyu** and Kazunori Ueda: [Encoding MELL Cut Elimination into a Hierarchical Graph Rewriting Language, In Proc. The 21st Asian Symposium on Programming Languages and Systems](https://conf.researchr.org/details/aplas-2023/src-and-posters/4/-Non-SRC-Encoding-MELL-Cut-Elimination-into-a-Hierarchical-Graph-Rewriting-Language) (APLAS 2023), Taipei, Taiwan, November 2023, [Non-SRC Poster Award](https://conf.researchr.org/track/aplas-2023/src-and-posters?#audience-awards). [[abstract](https://www.ueda.info.waseda.ac.jp/~takyu/about/aplas2023-abst.pdf), [poster](https://www.ueda.info.waseda.ac.jp/~takyu/about/aplas2023-poster.pdf)]
 
 ## Awards
 
