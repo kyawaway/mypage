@@ -37,7 +37,7 @@ April 2019 – March 2023: Bachelor of Engineering
 --->
 #### Refereed Papers.
 
-1. **Kento Takyu** and Kazunori Ueda, [Enhancing a Hierarchical Graph Rewriting Language based on MELL Cut Elimination](https://popl25.sigplan.org/details/PADL-2025-papers/3/Enhancing-a-Hierarchical-Graph-Rewriting-Language-based-on-MELL-Cut-Elimination), The 27th International Symposium on Practical Aspects of Declarative Languages (PADL 2025), Denver, Colorado, United States, January 2025. [[paper (extended version)](https://arxiv.org/pdf/2411.14802), [slide](https://www.ueda.info.waseda.ac.jp/~takyu/about/padl2025-slide.pdf)]
+1. **Kento Takyu** and Kazunori Ueda, [Enhancing a Hierarchical Graph Rewriting Language based on MELL Cut Elimination](https://popl25.sigplan.org/details/PADL-2025-papers/3/Enhancing-a-Hierarchical-Graph-Rewriting-Language-based-on-MELL-Cut-Elimination), The 27th International Symposium on Practical Aspects of Declarative Languages (PADL 2025), January 2025. [[paper (extended version)](https://arxiv.org/pdf/2411.14802), [slide](https://www.ueda.info.waseda.ac.jp/~takyu/about/padl2025-slide.pdf)]
 
 #### Unrefereed Papers.
 
@@ -49,7 +49,9 @@ April 2019 – March 2023: Bachelor of Engineering
 
 2. **Kento Takyu** and Kazunori Ueda: 階層グラフ書き換え言語による線形論理のカット除去のエンコーディング, The 40th JSSST Annual Conference (JSSST 2023), 2023. (in Japanese)
 
-3. **Kento Takyu** and Kazunori Ueda: [Encoding MELL Cut Elimination into a Hierarchical Graph Rewriting Language, In Proc. The 21st Asian Symposium on Programming Languages and Systems](https://conf.researchr.org/details/aplas-2023/src-and-posters/4/-Non-SRC-Encoding-MELL-Cut-Elimination-into-a-Hierarchical-Graph-Rewriting-Language) (APLAS 2023), Taipei, Taiwan, November 2023, [Non-SRC Poster Award](https://conf.researchr.org/track/aplas-2023/src-and-posters?#audience-awards). [[abstract](https://www.ueda.info.waseda.ac.jp/~takyu/about/aplas2023-abst.pdf), [poster](https://www.ueda.info.waseda.ac.jp/~takyu/about/aplas2023-poster.pdf)]
+3. **Kento Takyu** and Kazunori Ueda: [Encoding MELL Cut Elimination into a Hierarchical Graph Rewriting Language](https://conf.researchr.org/details/aplas-2023/src-and-posters/4/-Non-SRC-Encoding-MELL-Cut-Elimination-into-a-Hierarchical-Graph-Rewriting-Language) 
+, The 21st Asian Symposium on Programming Languages and Systems (APLAS 2023), November 2023. 
+[[abstract](https://www.ueda.info.waseda.ac.jp/~takyu/about/aplas2023-abst.pdf), [poster](https://www.ueda.info.waseda.ac.jp/~takyu/about/aplas2023-poster.pdf)]
 
 ## Awards
 
