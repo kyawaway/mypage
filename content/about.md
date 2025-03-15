@@ -53,6 +53,8 @@ April 2019 – March 2023: Bachelor of Engineering
 , The 21st Asian Symposium on Programming Languages and Systems (APLAS 2023), November 2023. 
 [[abstract](https://www.ueda.info.waseda.ac.jp/~takyu/about/aplas2023-abst.pdf), [poster](https://www.ueda.info.waseda.ac.jp/~takyu/about/aplas2023-poster.pdf)]
 
+4. **Kento Takyu** and Kazunori Ueda: MELL proof netsにおける単純型付きラムダ計算の代入表現の再考, 第27回プログラミングおよびプログラミング言語ワークショップ (PPL 2025), 2025. (in Japanese)
+
 ## Awards
 
 1. The 27th International Symposium on Practical Aspects of Declarative Languages (PADL 2025) [Best Student Paper Honorable Mention](https://popl25.sigplan.org/home/PADL-2025#Awards).
