@@ -3,15 +3,14 @@ title="Kento Takyu"
 +++
 
 
-I am a student of **Waseda University** majoring in Computer Science and Engineering.
-
-I am interested in **logic** and **programming language**.
+I am a researcher in the field of computer science.
+My research interests include linear logic, proof nets, functional programming, and graph transformation.
 
 ## Education 
 
 April 2025 – current:
 
-- Software engineer at Japanese tech company.
+- Researcher at Japanese tech company.
 
 April 2023 – March 2025: Master of Engineering
 
