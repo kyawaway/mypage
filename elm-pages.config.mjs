@@ -2,17 +2,19 @@ import { defineConfig } from "vite";
 import adapter from "elm-pages/adapter/netlify.js";
 
 export default {
-  vite: defineConfig({}),
+  vite: defineConfig({
+    base: "/~takyu/",
+  }),
   adapter,
   headTagsTemplate(context) {
     return `
-<link rel="apple-touch-icon" sizes="180x180" href="/favicon-32x32.png"/>
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-32x32.png" />
-<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="apple-touch-icon" sizes="180x180" href="favicon-32x32.png"/>
+<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png" />
+<link rel="icon" type="image/png" sizes="16x16" href="favicon-32x32.png" />
+<link rel="shortcut icon" href="favicon.ico" />
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
-<link rel="stylesheet" href="/style.css" />
-<link rel="stylesheet" href="/custom.css" />
+<link rel="stylesheet" href="style.css" />
+<link rel="stylesheet" href="custom.css" />
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet">
