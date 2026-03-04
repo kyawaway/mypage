@@ -1,0 +1,362 @@
+/* Hero Section */
+#hero-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 3em 0 1em 0;
+  text-align: center;
+}
+
+#hero-section #main-icon {
+  margin-bottom: 1em;
+}
+
+#hero-section #home-title {
+  margin: 0;
+  font-size: 2.5em;
+}
+
+#hero-section #home-subtitle {
+  margin-top: 0.5em;
+  margin-bottom: 1.5em;
+  font-size: 1.2em;
+  opacity: 0.5;
+}
+
+#hero-section #home-social {
+  font-size: 1.4em;
+  opacity: 0.6;
+}
+
+#hero-section #home-social a {
+  color: #3c372d;
+  margin: 0 0.3em;
+  opacity: 1;
+}
+
+#hero-section #home-social a:hover {
+  color: #e5c3be;
+}
+
+#hero-section #home-social i {
+  font-size: 1.5em;
+}
+
+#hero-section #home-links {
+  margin-top: 1em;
+  font-size: 0.9em;
+}
+
+#hero-section #home-links a {
+  color: #732346;
+}
+
+/* Section headings */
+.content h2 {
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 0.5em;
+  margin-bottom: 1em;
+}
+
+/* Page layout */
+#page {
+  min-height: 100vh;
+}
+
+/* Override site-footer margin since we removed the bottom header */
+#site-footer {
+  margin-bottom: 2em;
+  margin-top: 4em;
+}
+
+/* Adjust site-main spacing */
+.site-main {
+  margin-bottom: 0;
+  margin-top: 0 !important;
+}
+
+/* Filter Buttons */
+.filter-buttons {
+  display: flex;
+  gap: 0.5em;
+  flex-wrap: wrap;
+  margin-bottom: 1.5em;
+}
+
+.filter-btn {
+  padding: 0.5em 1em;
+  border: 1px solid #ccc;
+  border-radius: 20px;
+  background: #fff;
+  color: #666;
+  cursor: pointer;
+  font-size: 0.9em;
+  transition: all 0.2s ease;
+}
+
+.filter-btn:hover {
+  border-color: #732346;
+  color: #732346;
+}
+
+.filter-btn-active {
+  background: #732346;
+  border-color: #732346;
+  color: #fff;
+}
+
+.filter-btn-active:hover {
+  background: #5a1a36;
+  border-color: #5a1a36;
+  color: #fff;
+}
+
+.no-results {
+  color: #666;
+  font-style: italic;
+  padding: 1em 0;
+}
+
+/* Publication Cards */
+.publication-cards {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+}
+
+.publication-card {
+  background: #faf9f7;
+  border: 1px solid #e8e6e3;
+  border-radius: 8px;
+  padding: 1.2em;
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+.publication-card:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  transform: translateY(-2px);
+}
+
+.publication-card .card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 0.5em;
+  gap: 1em;
+}
+
+.publication-card .card-title {
+  font-weight: 600;
+  color: #3c372d;
+  margin: 0;
+  line-height: 1.4;
+}
+
+.publication-card .card-title a {
+  color: #732346;
+}
+
+.publication-card .card-badge {
+  font-size: 0.75em;
+  padding: 0.2em 0.6em;
+  border-radius: 4px;
+  white-space: nowrap;
+  font-weight: 500;
+}
+
+.publication-card .badge-refereed {
+  background: #d4edda;
+  color: #155724;
+}
+
+.publication-card .badge-unrefereed {
+  background: #fff3cd;
+  color: #856404;
+}
+
+.publication-card .badge-poster {
+  background: #d1ecf1;
+  color: #0c5460;
+}
+
+.publication-card .badge-journal {
+  background: #e2d6f5;
+  color: #4a2c7a;
+}
+
+.publication-card .badge-proceedings {
+  background: #fde2e4;
+  color: #8b2635;
+}
+
+.publication-card .card-badges {
+  display: flex;
+  gap: 0.3em;
+  flex-wrap: wrap;
+}
+
+.publication-card .card-meta {
+  font-size: 0.9em;
+  color: #666;
+  margin-bottom: 0.5em;
+}
+
+.publication-card .card-venue {
+  font-size: 0.85em;
+  color: #888;
+  margin-bottom: 0.8em;
+}
+
+.publication-card .card-links {
+  display: flex;
+  gap: 0.5em;
+  flex-wrap: wrap;
+}
+
+.publication-card .card-link {
+  font-size: 0.8em;
+  padding: 0.3em 0.8em;
+  background: #732346;
+  color: #fff !important;
+  border-radius: 4px;
+  opacity: 1 !important;
+  transition: background 0.2s ease;
+}
+
+.publication-card .card-link:hover {
+  background: #5a1a36;
+}
+
+/* Award Cards */
+.award-cards {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+}
+
+.award-card {
+  background: #faf9f7;
+  border: 1px solid #e8e6e3;
+  border-radius: 8px;
+  padding: 1.2em;
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+.award-card:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  transform: translateY(-2px);
+}
+
+.award-card .card-title {
+  font-weight: 600;
+  color: #3c372d;
+  margin: 0 0 0.5em 0;
+  line-height: 1.4;
+}
+
+.award-card .card-title a {
+  color: #732346;
+}
+
+.award-card .card-venue {
+  font-size: 0.9em;
+  color: #666;
+}
+
+/* Tool Cards */
+.tool-cards {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+}
+
+.tool-card {
+  background: #faf9f7;
+  border: 1px solid #e8e6e3;
+  border-radius: 8px;
+  padding: 1.2em;
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+.tool-card:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  transform: translateY(-2px);
+}
+
+.tool-card .card-title {
+  font-weight: 600;
+  color: #3c372d;
+  margin: 0 0 0.5em 0;
+  line-height: 1.4;
+}
+
+.tool-card .card-title a {
+  color: #732346;
+}
+
+.tool-card .card-description {
+  font-size: 0.9em;
+  color: #666;
+  margin-bottom: 0.8em;
+}
+
+.tool-card .card-links {
+  display: flex;
+  gap: 0.5em;
+  flex-wrap: wrap;
+}
+
+.tool-card .card-link {
+  font-size: 0.8em;
+  padding: 0.3em 0.8em;
+  background: #732346;
+  color: #fff !important;
+  border-radius: 4px;
+  opacity: 1 !important;
+  transition: background 0.2s ease;
+}
+
+.tool-card .card-link:hover {
+  background: #5a1a36;
+}
+
+/* Publication List Page */
+.publication-list-page {
+  background: #fff !important;
+  color: #000 !important;
+  font-family: Arial, sans-serif;
+  padding: 1em;
+  opacity: 1 !important;
+}
+
+.publication-list-page * {
+  color: #000;
+  opacity: 1;
+  letter-spacing: normal;
+}
+
+.publication-list-page a {
+  color: #00f !important;
+}
+
+.publication-list-page a:visited {
+  color: #800080 !important;
+}
+
+.publication-list-page h1,
+.publication-list-page h2,
+.publication-list-page h3 {
+  border-bottom: none;
+  color: #000;
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+}
+
+.pub-list-item {
+  margin-bottom: 1em;
+}
+
+.pub-list-item p {
+  margin: 0;
+}
