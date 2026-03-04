@@ -153,7 +153,7 @@ view _ _ model =
                 , h1 [ id "home-title" ] [ text Profile.profile.name ]
                 , p [ id "home-subtitle" ] [ text Profile.profile.subtitle ]
                 , div [ id "home-social" ]
-                    [ viewSocialLink Profile.profile.twitterUrl "twitter" twitterIcon
+                    [ viewSocialLink Profile.profile.twitterUrl "x" xTwitterIcon
                     , viewSocialLink Profile.profile.githubUrl "github" githubIcon
                     ]
                 , p [ id "home-links" ]
@@ -468,9 +468,9 @@ viewToolCard tool =
 -- Font Awesome Icons
 
 
-twitterIcon : Html msg
-twitterIcon =
-    Html.i [ class "fa-brands fa-twitter" ] []
+xTwitterIcon : Html msg
+xTwitterIcon =
+    Html.i [ class "fa-brands fa-x-twitter" ] []
 
 
 githubIcon : Html msg
